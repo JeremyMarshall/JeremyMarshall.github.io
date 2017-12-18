@@ -1,0 +1,6 @@
+--index-url https://artifactory.dev.cba/artifactory/api/pypi/org.python.pypi/simple
+
+pygithub3
+pystache==0.5.4
+requests==2.7.0
+GitPython==2.1.8

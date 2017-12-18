@@ -1,3 +1,3 @@
-# JeremyMarshall.github.io
+# test
 
-This is a test page to create a gh pages from...
+this is a test for github pages

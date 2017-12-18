@@ -1,0 +1,8 @@
+{
+  "repos": {
+    "marsje.github.ai.cba": ["iOS"],
+    "testing-stuff": ["Java"]
+  },
+  "custom": [
+  ]
+}
